@@ -1,16 +1,35 @@
-<<<<<<< HEAD
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 =======
-# sketch
+# sketch# Designify ✨
+
+**Designify** is a modern AI-powered web tool that transforms your photos into beautiful pencil sketch artworks in seconds.
+
+## 🔍 Features
+
+- 🎨 Upload your own images (JPG, PNG supported)
+- 🧠 Converts photos into stunning pencil-style sketches using AI
+- ⚡ Instant preview & download of converted sketches
+- 💡 Smooth GSAP animations for futuristic UI experience
+- 📱 Fully responsive design with TailwindCSS
+
+## 🚀 How It Works
+
+1. Upload your image
+2. AI processes and sketches it
+3. Preview and download your sketch
+
+## 🧪 Tech Stack
+
+- **Frontend**: React, TailwindCSS, GSAP
+- **Icons**: FontAwesome
+- **Sketch Engine**: Powered by a custom backend (written by collaborator)
+
+## 📦 Setup
+
+```bash
+git clone https://github.com/tejas-thokal/sketch.git
+cd sketch
+npm install
+npm run dev
+
 >>>>>>> 2f41533a65f46ee338cbed44927121a8b25cc362
